@@ -1464,6 +1464,7 @@ button,
   color: #ffffff !important;
   cursor: pointer;
   display: inline-block;
+  font-family: 'Lato';
   font-size: 0.6em;
   font-weight: bold;
   height: calc(4.75em + 2px);
@@ -2725,6 +2726,7 @@ table {
     border: 0;
     color: rgba(255, 255, 255, 0.35);
     display: block;
+    font-family: 'Lato';
     font-size: 0.6em;
     font-weight: bold;
     letter-spacing: 0.25em;
