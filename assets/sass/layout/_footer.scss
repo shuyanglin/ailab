@@ -16,8 +16,9 @@
 		}
 
 		> .inner {
+			background-color: _palette(fg-bold);
 			a {
-				border-bottom-color: _palette(border);
+				border-bottom-color: _palette(accent2-alt);
 
 				&:hover {
 					border-bottom-color: transparent;
@@ -26,7 +27,7 @@
 
 			.menu {
 				font-size: 0.8em;
-				color: _palette(border);
+				color: _palette(accent2-alt);
 			}
 		}
 
