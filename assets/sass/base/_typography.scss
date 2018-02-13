@@ -52,11 +52,15 @@
 
 	p {
 		margin: 0 0 _size(element-margin) 0;
+		font-family: 'Quicksand';
+		font-weight: 300;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: _palette(fg-bold);
-		font-weight: _font(weight-bold);
+		font-family: 'Lato';
+		font-weight: 900;
+		// font-weight: _font(weight-bold);
 		line-height: 1.5;
 		margin: 0 0 (_size(element-margin) * 0.25) 0;
 
